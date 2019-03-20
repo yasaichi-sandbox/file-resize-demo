@@ -1,0 +1,21 @@
+{
+  "name": "file-resize-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/runtime": "^7.4.0",
+    "blueimp-load-image": "^2.20.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-transform-runtime": "^7.4.0",
+    "parcel-bundler": "^1.12.2"
+  },
+  "engines": {
+    "node": ">= 8"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
